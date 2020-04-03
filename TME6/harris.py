@@ -208,7 +208,7 @@ if __name__ == "__main__":
 
     while True:
         check, frame = webcam.read()
-        
+
         image_gray = cv2.cvtColor(frame, cv2.COLOR_RGB2GRAY)
 
         R = harris(image_gray, 1, 0.06)
