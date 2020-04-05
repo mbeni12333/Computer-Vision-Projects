@@ -16,12 +16,12 @@ You can find detailed jupyter notebooks, coding algorithms from scratch and expl
   - Image Segmentation / KMeans
   - Image Compression / JPEG / Huffman Encoding / Entropy
 
-![alt Histogram](images/hist.jpg)
-![alt Fourrier](images/fourrier.jpg)
-![alt Filter](images/filter.jpg)
-![alt Gradient](images/gradient.jpg)
-![alt Hough](images/hough.jpg)
-![alt harris](images/harris.jpg)
+![](images/hist.png)
+![](images/fourrier.png)
+![](images/filter.png)
+![](images/hough3.png)
+![](images/hough.png)
+![](images/harris.png)
 
 ### Todos
 
