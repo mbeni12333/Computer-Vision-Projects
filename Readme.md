@@ -16,12 +16,32 @@ You can find detailed jupyter notebooks, coding algorithms from scratch and expl
   - Image Segmentation / KMeans
   - Image Compression / JPEG / Huffman Encoding / Entropy
 
+
+
+### Using histogram equalisation to ajust the contrast in IRM images
 ![](images/hist.png)
+
+### visualizing Discrete Fourier transform
 ![](images/fourrier.png)
+![](images/fourrier2.png)
+
+
+### Quadtree split image for compression purpous
+![](images/quadtree_split.png)
+
+### Average filter used to blur an image
 ![](images/filter.png)
+
+### Hough transform to detect lines in image
 ![](images/hough3.png)
+![](images/hough2.png)
 ![](images/hough.png)
+
+### Harris corner detector 
 ![](images/harris.png)
+![](images/harris2.png)
+
+
 
 ### Todos
 
